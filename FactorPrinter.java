@@ -14,14 +14,4 @@ public class FactorPrinter {
         }
     }
 }
-////////////// a printat invers
 
-//        int divider = number;
-//        while (divider >= 1) {
-//            if (number % divider == 0) {
-//                System.out.println(divider);
-//            }
-//            divider--;
-//        }
-//    }
-//}
